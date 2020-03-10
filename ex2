@@ -1,0 +1,8 @@
+BANCO DE DADOS: colecoes de dados que estao interligados
+entre si e juntos fornecem informacao sobre algo ou alguem.
+Uma lista telefonica e um exemplo de banco de dados, pois ela
+oferece o nome de pessoas(um dado) associado a um numero(outro dado)
+gerando assim informacao para quem for usa-la.
+
+SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS: um conjunto de
+programas de computador que gerenciam uma base de dados. 
