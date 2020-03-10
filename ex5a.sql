@@ -1,0 +1,1 @@
+SELECT * FROM pedidos WHERE codigo_produto = 403
